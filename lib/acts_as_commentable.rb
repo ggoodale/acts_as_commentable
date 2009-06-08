@@ -1,2 +1,2 @@
-require 'acts_as_commentable'
+require 'commentable_methods'
 require 'comment_methods'
